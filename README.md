@@ -9,3 +9,10 @@
 ![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/master/Image_03.PNG "")
 
 ![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/master/Image_04.PNG "")
+
+---
+
+Требования для компиляции:
+
+1. Delphi 2007
+2. MS SQL2008
