@@ -4,13 +4,13 @@
 
 <img src="https://github.com/superbot-coder/infostroy_test/blob/main/screenshots/Image01.PNG" width="795" >
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/Image01.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/main/screenshots/Image01.PNG "")
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image02.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/main/screenshots/blob/master/Image02.PNG "")
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image03.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/main/screenshots/blob/master/Image03.PNG "")
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image04.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/main/screenshots/blob/master/Image04.PNG "")
 
 ---
 
