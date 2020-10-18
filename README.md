@@ -2,7 +2,7 @@
 Это тестовое задание, которое компания "Инфострой" в Санкт-Петербурге мне выслала, когда я искал работу.
 Полное условие задание лежит в Word документе Тестовое задание.doc   
 
-<img src="https://github.com/superbot-coder/infostroy_test/screenshots/Image01.PNG" width="795" >
+<img src="https://github.com/superbot-coder/infostroy_test/blob/main/screenshots/Image01.PNG" width="795" >
 
 ![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/Image01.PNG "")
 
