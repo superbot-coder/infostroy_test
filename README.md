@@ -1,18 +1,18 @@
 # infostroy_test
-Р­С‚Рѕ С‚РµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ, РєРѕС‚РѕСЂРѕРµ РєРѕРјРїР°РЅРёСЏ "РРЅС„РѕСЃС‚СЂРѕР№" РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі РјРЅРµ РІС‹СЃР»Р°Р»Р°, РєРѕРіРґР° СЏ РёСЃРєР°Р» СЂР°Р±РѕС‚Сѓ.
-РџРѕР»РЅРѕРµ СѓСЃР»РѕРІРёРµ Р·Р°РґР°РЅРёРµ Р»РµР¶РёС‚ РІ Word РґРѕРєСѓРјРµРЅС‚Рµ   
+Это тестовое задание, которое компания "Инфострой" в Санкт-Петербурге мне выслала, когда я искал работу.
+Полное условие задание лежит в Word документе Тестовое задание.doc   
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/master/Image_01.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image_01.PNG "")
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/master/Image_02.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image_02.PNG "")
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/master/Image_03.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image_03.PNG "")
 
-![Screenshot](https://github.com/superbot-coder/infostroy_test/blob/master/Image_04.PNG "")
+![Screenshot](https://github.com/superbot-coder/infostroy_test/screenshots/blob/master/Image_04.PNG "")
 
 ---
 
-РўСЂРµР±РѕРІР°РЅРёСЏ РґР»СЏ РєРѕРјРїРёР»СЏС†РёРё:
+Требования для компиляции:
 
 1. Delphi 2007
 2. MS SQL2008
